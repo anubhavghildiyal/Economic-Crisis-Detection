@@ -1,0 +1,10 @@
+factors:
+  - name: GDP
+    code: GDP
+  - name: Core CPI
+    code: CPILFESL
+  - name: Unemployment
+    code: UNRATE
+  # - name: CPI
+  #   code: CPIAUCSL
+
